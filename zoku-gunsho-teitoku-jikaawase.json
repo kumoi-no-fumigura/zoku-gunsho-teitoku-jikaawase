@@ -1,0 +1,96 @@
+{
+ "work": "貞徳翁自歌合",
+ "work_id": "zoku-gunsho-teitoku-jikaawase",
+ "repo": "kumoi-no-fumigura/zoku-gunsho-teitoku-jikaawase",
+ "yomi": "ていとくおうじかあわせ",
+ "category": "歌合",
+ "kind": "prose",
+ "description": null,
+ "editions": [
+  {
+   "pid": "nao-733169",
+   "title": "続群書類従 巻419（貞徳翁自歌合）",
+   "holder": "国立公文書館",
+   "form": "写本",
+   "viewer": "https://www.digital.archives.go.jp/item/733169",
+   "images": [
+    "https://www.digital.archives.go.jp/api/content/item/da12/C102597157100/iiif/M1000000000000067893_0026.jp2",
+    "https://www.digital.archives.go.jp/api/content/item/da12/C102597157200/iiif/M1000000000000067893_0027.jp2",
+    "https://www.digital.archives.go.jp/api/content/item/da12/C102597157300/iiif/M1000000000000067893_0028.jp2",
+    "https://www.digital.archives.go.jp/api/content/item/da12/C102597157400/iiif/M1000000000000067893_0029.jp2",
+    "https://www.digital.archives.go.jp/api/content/item/da12/C102597157500/iiif/M1000000000000067893_0030.jp2",
+    "https://www.digital.archives.go.jp/api/content/item/da12/C102597157600/iiif/M1000000000000067893_0031.jp2"
+   ],
+   "url": "https://www.digital.archives.go.jp/item/733169",
+   "editor": "塙保己一 編",
+   "series": "続群書類従",
+   "publisher": "",
+   "year": null,
+   "pages": ""
+  }
+ ],
+ "status": "未校正",
+ "license": {
+  "text": "CC0 1.0"
+ },
+ "blocks": [
+  {
+   "id": "zoku-gunsho-teitoku-jikaawase-0001",
+   "pid": "nao-733169",
+   "pages": [
+    1
+   ],
+   "text": "君をなとおもふ色にはかへるらんうき世にそさぬすみそめのそて七此貞徳自五十番欲含彼翁以自筆本冩之訖尤可為証本者也中秋中三日貞徳翁自歌合一番草花早左ほし合のそらやうらみむはつ秋の歌にひとくなゝくさの花右むしも又はたをりそめぬ秋野の老のにしきはたれかいそきし二番旅天雁左人やかの道かとそおもふ時しもあれうき秋かせにわたるよりかね右"
+  },
+  {
+   "id": "zoku-gunsho-teitoku-jikaawase-0002",
+   "pid": "nao-733169",
+   "pages": [
+    2
+   ],
+   "text": "故里やなをわすられぬ風さはきむらくもまうふ夜半のなか三番秋枕夢左山鳥のおきの葉そよくなかきよにひとりみしかき手枕の夢右右手まくらの露に心や置ぬらんむすひかねたる長き夜の夢四番月宿松左遠山にしはしいさよふ月のうちのかつらのことき峯の松かえ七雲はらぬ嵐をよはのあるしにておのへの松にやさる月影五番寺司左古寺の明のつゝみもなかきよのふるみるや月の類にしるらん右ふるてらにもりいる月の愛もし火はあるゝにつきてかすそそひける左六番岡竹月置ぬ歌をくや岡への竹の葉にそよかぬ月もそよく秋風右"
+  },
+  {
+   "id": "zoku-gunsho-teitoku-jikaawase-0003",
+   "pid": "nao-733169",
+   "pages": [
+    3
+   ],
+   "text": "かたおかの月そさひし支さと人の夏はすゝみしさゝのゑのはら七番寒庭虫朝日かけさせもか歌をいのちにてかきねの霜に残るむしのね左右こなたかなま虫の鳴ねもかれ残る垣根やをのかたまのをまゝき八番里楼衣左更行は雲ゐに高てなるかみのをとはの里にうつ砧か南右深草や野となる里のしかすかにうつら衣をいまや打らん九番題欠左十一日いかなれは山へのみみち色ふかき里はしくれのふらぬ物かは秋山のもみちの色にうつろはぬひとのこゝろの花はあらしな十番庭残菊左春の夜の草木の花の色もかもにはにそ残る菊の一本右"
+  },
+  {
+   "id": "zoku-gunsho-teitoku-jikaawase-0004",
+   "pid": "nao-733169",
+   "pages": [
+    4
+   ],
+   "text": "にほひつゝしほめる花もをく霜に色さへのこる庭のしら菊十一番逢増恋左いきぬへき心ちこそせぬ命にはかへらんといひて逢ぬ身なれは右くるしさはます田の池のねぬなはのねぬまそいまは恋しかりける十二番切待恋左とはゝ又いかにせよとてたましゐのまちいふる身をかれいつらん右待よはる露の身そうき契をかぬ草のはらをは猶もとはしを十三番久忍恋花尤員数百姓令以上世話無無事いく秋の木々のははいろに出れともこはいはこの森のした露右今さらのおもひとやせん猶さらにいはしといひて年もへにけり十四番関路雲左右治れるよにあふさかの関の戸はなれさへとちぬ山のはの雲"
+  },
+  {
+   "id": "zoku-gunsho-teitoku-jikaawase-0005",
+   "pid": "nao-733169",
+   "pages": [
+    5
+   ],
+   "text": "花の朝昼の夕もたゝこゝにおもこゝしらかはの関十五番寄日祝万代のよはひはきみをはしめにてあまつひつきの末ひさしうれ七右曇なくかはりなきよは久かたのひかりならては何にたとへん右貞徳自歌合以尾崎雅喜本書写畢"
+  }
+ ],
+ "poems": [],
+ "catalog": {
+  "work_id": "zoku-gunsho-teitoku-jikaawase",
+  "work": "貞徳翁自歌合",
+  "yomi": "ていとくおうじかあわせ",
+  "category": "歌合",
+  "order": 0,
+  "era": "",
+  "author": "",
+  "kind": "prose",
+  "blocks": 5,
+  "chars": 1002,
+  "poems": 0,
+  "yaku": 0,
+  "editions": 1,
+  "updated": "2026-10-29",
+  "updated_at": "2026-10-29T20:10:33+09:00"
+ }
+}
